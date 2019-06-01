@@ -11,7 +11,7 @@ end
 
 
 def not_safe?(speed)
-	return true.if
+	return true if 
 end
 	
 
